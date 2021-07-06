@@ -49,9 +49,7 @@ Here are the main numerical results we obtained:
 
 
 ## Reference
-This code was used to produce an accepted publication in EANN 2021, the reference will be available soon. 
-
-
+H. Moreau, A. Vassilev, and L. Chen, ‘Data Fusion for Deep Learning on Transport Mode Detection: A Case Study’, in *Proceedings of the 22nd Engineering Applications of Neural Networks Conference*, Cham, 2021, pp. 141–152. doi: [10.1007/978-3-030-80568-5_12](https://doi.org/10.1007/978-3-030-80568-5_12).
 
 
 
